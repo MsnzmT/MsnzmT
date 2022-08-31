@@ -9,9 +9,24 @@ I’m Mohammad Zahmatkesh. I’ve been working on the Back-End development for +
 
 ## 📊 &nbsp;Stats
 
-| <a  href="https://github.com/MsnzmT"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MsnzmT&show_icons=true&include_all_commits=true&theme=react&hide_border=true"  alt="Mohsen's github stats" /></a> | <a  href="https://github.com/MsnzmT"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsnzmT&layout=compact&theme=react&hide_border=true" /></a> |
-| ------------- | ------------- |
-| <a  href="https://github.com/MsnzmT"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=MsnzmT&theme=react&hide_border=true&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" /></a> |
+<div align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MsnzmT&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Mohsen's Github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=MsnzmT&layout=compact&langs_count=8&hide_border=1&COLLABORATOR#gh-light-mode-only" alt="Mohsen's Language stats" />
+</a>
+
+</div>
+
+<!-- Dark Mode -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MsnzmT&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mohsen's Github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=MsnzmT&layout=compact&langs_count=8&hide_border=1&COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mohsen's Language stats" />
+</a>
 
 <h2>📍Where to find me</h2>
 
