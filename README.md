@@ -9,24 +9,9 @@ I’m Mohsen Zahmatkesh. I’ve been working on the Back-End development for +1 
 
 ## 📊 &nbsp;Stats
 
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MsnzmT&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Mohsen's Github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=MsnzmT&layout=compact&langs_count=8&hide_border=1&COLLABORATOR#gh-light-mode-only" alt="Mohsen's Language stats" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsnzmT&hide=issues&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<!-- Dark Mode -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MsnzmT&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mohsen's Github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=MsnzmT&layout=compact&langs_count=8&hide_border=1&COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mohsen's Language stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MsnzmT&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>📍Where to find me</h2>
 
